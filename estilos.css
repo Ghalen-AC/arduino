@@ -318,3 +318,91 @@ img{
     border-radius: 10px;
     padding: 10px 5px;
 }
+.container-2{
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+  background:
+        radial-gradient(
+            circle at 50% 30%,
+            rgba(0, 255, 234, 0.35) 0%,
+            rgba(0, 174, 180, 0.15) 25%,
+            transparent 55%
+        ),
+        linear-gradient(
+            135deg,
+            #111111 0%,
+            #080808 50%,
+            #000000 100%
+        );
+}   
+.con-2{
+    padding: 30px;
+    border-radius: 7px;
+    background-color: rgba(5, 5, 5, 0.473) ;
+    box-shadow: 0 2px 8px rgba(28, 29, 29, 0.151);
+}
+.con-2 h3{
+    font-family: "Inter", sans-serif;;
+    font-size: 25px;
+    color: white;
+}
+.con-2 span{
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    color: rgba(20, 189, 180, 0.493); 
+    border-radius: 10px;
+    padding: 10px 5px;
+}
+.con-2 p{
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+    font-family: "Inter", sans-serif;
+    
+}
+.con-2 a{
+    text-decoration: none;
+    color: rgb(236, 241, 241);
+    font-family: "Inter", sans-serif;;
+}
+.funcion-2{
+    text-align: center;
+    padding: 50px;
+    background:
+        radial-gradient(
+            circle at 50% 30%,
+            rgba(0, 255, 234, 0.35) 0%,
+            rgba(0, 174, 180, 0.15) 25%,
+            transparent 55%
+        ),
+        linear-gradient(
+            135deg,
+            #111111 0%,
+            #080808 50%,
+            #000000 100%
+        );
+}   
+
+.funcion-2 h2{
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+.funcion-2 p{
+    font-family: "Inter", sans-serif;
+    color: rgba(255, 255, 255, 0.586);
+   
+}
+.funcion-2 span{
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    color: rgba(0, 255, 255, 0.493); 
+    border-radius: 10px;
+    padding: 10px 5px;
+}
